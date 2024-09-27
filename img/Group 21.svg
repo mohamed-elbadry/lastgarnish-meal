@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.119" height="157.011" viewBox="0 0 125.119 157.011">
+  <g id="Group_21" data-name="Group 21" transform="translate(-5470.257 -3374.196)">
+    <path id="Path_167" data-name="Path 167" d="M5592.723,3402.572h0a18.28,18.28,0,0,0-6.148-25.109l-1.012-.614a18.28,18.28,0,0,0-25.11,6.148h0a39.056,39.056,0,0,1-29.21,18.576l-1.788.193a53.979,53.979,0,0,0-40.372,25.676l-10.575,17.433a56.842,56.842,0,0,0,19.12,78.08h0a56.841,56.841,0,0,0,78.08-19.12l10.575-17.433a53.985,53.985,0,0,0,4.117-47.667l-.655-1.675A39.06,39.06,0,0,1,5592.723,3402.572Z" fill="#ed5730"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="44.003" cy="29.955" rx="44.003" ry="29.955" transform="matrix(0.519, -0.855, 0.855, 0.519, 5484.614, 3486.653)" fill="#ed5730" style="mix-blend-mode: color-burn;isolation: isolate"/>
+    <g id="Group_18" data-name="Group 18">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="9.288" cy="9.288" r="9.288" transform="translate(5523.458 3455.095)"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="9.288" cy="9.288" r="9.288" transform="translate(5503.77 3455.789) rotate(-49.542)"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="9.288" cy="9.288" r="9.288" transform="translate(5539.342 3464.729)"/>
+    </g>
+    <g id="Group_19" data-name="Group 19">
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="9.288" cy="9.288" r="9.288" transform="translate(5535.883 3455.468) rotate(-45)"/>
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="9.288" cy="9.288" r="9.288" transform="translate(5520 3445.834) rotate(-45)"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="9.288" cy="9.288" r="9.288" transform="translate(5540.008 3427.813)"/>
+    </g>
+    <g id="Group_20" data-name="Group 20">
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="9.288" cy="9.288" r="9.288" transform="translate(5503.36 3473.265) rotate(-45)"/>
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="9.288" cy="9.288" r="9.288" transform="translate(5502.992 3491.781) rotate(-45)"/>
+      <circle id="Ellipse_10" data-name="Ellipse 10" cx="9.288" cy="9.288" r="9.288" transform="translate(5519.243 3482.9) rotate(-45)"/>
+    </g>
+  </g>
+</svg>
